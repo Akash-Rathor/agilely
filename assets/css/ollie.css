@@ -162,13 +162,13 @@ sup {
 }
 
 a {
-  color: #f06161;
+  color: orange;
   text-decoration: none;
   background-color: transparent;
 }
 
 a:hover {
-  color: #e91b1b;
+  color: orange;
   text-decoration: none;
 }
 
@@ -3300,12 +3300,12 @@ fieldset:disabled a.btn {
 
 .btn-link {
   font-weight: 400;
-  color: #f06161;
+  color: orange;
   text-decoration: none;
 }
 
 .btn-link:hover {
-  color: #e91b1b;
+  color: orange;
   text-decoration: none;
 }
 
@@ -5385,7 +5385,7 @@ input[type="button"].btn-block {
 
 .page-link:hover {
   z-index: 2;
-  color: #e91b1b;
+  color: orange;
   text-decoration: none;
   background-color: rgba(240, 97, 97, 0.3);
   border-color: transparent;
@@ -10780,7 +10780,7 @@ button.bg-dark:focus {
 }
 
 a.text-primary:hover, a.text-primary:focus {
-  color: #e91b1b !important;
+  color: orange !important;
 }
 
 .text-secondary {
